@@ -1,2 +1,2 @@
 # face-detection
-it is a project
+Real time face detection recognition
